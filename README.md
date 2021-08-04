@@ -12,6 +12,7 @@ Install 3x+1 Graph Generator with pip3
 ```bash
   cd my-project
   pip3 install -r requirements.txt
+  flask run
 ```
     
 ## License
